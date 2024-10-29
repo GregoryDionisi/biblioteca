@@ -1,0 +1,5 @@
+Il Grande Gatsby,F. Scott Fitzgerald,Classico
+Dracula,Bram Stoker,Horror
+Moby Dick;Herman Melville,Avventura
+La Metamorfosi,Franz Kafka,Letteratura
+Lo Hobbit,J.R.R. Tolkien,Fantasy
